@@ -1,0 +1,267 @@
+* {margin: 0; padding: 0; }
+
+.active .item:hover {
+    color: var(--xl);
+}
+
+.item:hover {
+    color: white;
+}
+
+.item {
+    cursor: pointer;
+    width: 80px;
+    text-align: center;
+}
+
+span:hover {
+    color: #296b66;
+}
+
+.icon5:hover {
+    color: #eaeaea;
+}
+
+.end {
+    color: #8c8c8c;
+    text-align: center;
+    margin-bottom: 80px;
+    font-size: 12px;
+}
+
+.icon5 {
+    background-color: #2b2b2b;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin: 0 8px;
+    cursor: pointer;
+}
+
+.icons {color: #a9a7a7;}
+
+.khoinho4-3 {margin-top: 64px;margin-bottom: 80px;}
+
+.mota4 {
+    font-size: 14px;
+}
+
+hr.hr4 {
+    margin: 20px 123px;
+    width: 50px;
+}
+
+.tieude4 {
+    font-size: 14px;
+}
+
+.icon4 {
+    color: var(--xl);
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.box {
+    height: 170px;
+    width: 300px;
+    border-radius: .25rem;
+    border-color: white;
+    border: 0;
+    border-bottom: 4px solid var(--xl);
+    margin: 0 12px;
+}
+
+.khoinho4-2 {
+    margin-top: 132px;
+}
+
+input.email {
+    height: 43px;
+    width: 400px;
+    border-radius: .25rem;
+    border-color: white;
+    border: 0;
+    padding-left: 24px;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+i.far.fa-paper-plane {
+    font-size: 28px;
+}
+
+.tieude4-1 {
+    font-size: 24px;
+    margin-top: 8px;
+    margin-bottom: 36px;
+}
+
+.khoinho4-1 {
+    color: white;
+    padding-top: 128px;
+}
+
+.khoi4 {
+    background: linear-gradient(0deg, #161616, #161616e6, #1616164d),url(https://blackrockdigital.github.io/startbootstrap-grayscale/img/bg-signup.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 867px;
+}
+
+.khoinho3-2 {
+    margin: 0 120px;
+}
+
+hr {
+    border: 2px solid var(--xl);
+    width: 120px;
+    margin-bottom: 0;
+    margin-top: 8px;
+}
+
+.mota3-2 {
+    color: #a5a1a1;
+    width: 310px;
+    font-size: 14px;
+}
+
+.tieude3-2 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+.bg {
+    background-color: #161616;
+}
+
+img.anh3-2 {
+    width: 100%;
+}
+
+.mota3 {
+    color: gray;
+    font-size: 14px;
+}
+
+.tieude3 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.khoinho3 {
+    border-left: 6px solid var(--xl);
+    padding-left: 16px;
+}
+
+.khoi3 {
+    padding: 120px 0;
+    height: 1544px;
+}
+
+img.anh3 {
+    width: 100%;
+    height: 100%;
+}
+
+.khoinho2 {padding-top: 120px;}
+
+span {
+    color: var(--xl);
+    cursor: pointer;
+}
+
+p.mota2 {
+    color: #a29a9a;
+    font-size: 14px;
+    width: 567px;
+    margin: auto;
+}
+
+h3.tieude2 {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+
+.khoi2 {background: linear-gradient(180deg, #161616, #161616e6, #161616eb);height: 592px;}
+
+.anh2 {
+    width: 100%;
+    height: auto;
+    margin-top: 44px;
+}
+
+.btn-primary:hover {
+    background-color: #487d7a !important;
+    border-color: #487d7a !important;
+}
+
+.btn-primary {
+    background-color: var(--xl) !important;
+    border-color: var(--xl) !important;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 2px;
+    height: 43px;
+    width: 134px;
+}
+
+h1.tieude1 {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 88px;
+    letter-spacing: 8px;
+    margin-bottom: 12px;
+}
+
+.khoinho1 {
+    margin: auto;
+    color: #ffffff80;
+}
+
+h4.mota1 {margin: auto;width: 350px;font-size: 20px;margin-bottom: 32px;}
+
+.khoi1 {
+    height: 100vh;
+    background: linear-gradient(0deg, #161616, #161616e6, #1616164d),url(https://blackrockdigital.github.io/startbootstrap-grayscale/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.logo1 {
+    line-height: 72px;
+    cursor: pointer;
+    width: 140px;
+}
+
+header {
+    height: 72px;
+    line-height: 72px;
+    color: #ffffff80;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    --xl:#64a19d;
+
+}
+
+.menu {
+    justify-content: space-around;
+}
+
+.active {
+    height: 72px;
+    line-height: 72px;
+    color:black;
+    background-color: white;
+}
+
+.active2 {
+    color: var(--xl);
+    border-bottom: 0.25rem solid var(--xl);
+    height: 72px;
+}
+
